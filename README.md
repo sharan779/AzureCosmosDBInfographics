@@ -7,7 +7,7 @@
 <table>
    
    <td align="center" valign="center">
-        <a href="../images/1.jpg"><img src="../thumbnails/1.jpg" width="300" alt="description here" /></a>
+        <a href="./images/1.jpg"><img src="./thumbnails/1.jpg" width="300" alt="description here" /></a>
         <br/>
         <b>(1) <i>Understanding Azure Cosmos DB Documentation </i></b>
       </td>

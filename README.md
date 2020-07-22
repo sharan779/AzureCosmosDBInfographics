@@ -98,55 +98,59 @@
  <td align="center" valign="center">
         <a href="./images/17.jpg"><img src="./thumbnails/17.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(17) <i>Consistency levels :  Bounded Staleness </i></b>
+        <b>(17) <i>Apache Cassandra vs Azure Cosmos DB Cassandra API Consistency mapping </i></b>
   <td align="center" valign="center">
         <a href="./images/18.jpg"><img src="./thumbnails/18.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(18) <i>CApache Cassandra vs Azure Cosmos DB Cassandra API Consistency mapping</i></b>
+        <b>(18) <i>Apache Cassandra vs Azure Cosmos DB Cassandra API Lower Writes Consistency mapping</i></b>
       </td>
   </tr>
    <tr>
   <td align="center" valign="center">
         <a href="./images/19.jpg"><img src="./thumbnails/19.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(19) <i>Apache Cassandra vs Azure Cosmos DB Cassandra API Lower Writes Consistency mapping</i></b>
+        <b>(19) <i>Mongo DB vs Azure Cosmos DB Mongo API Majority Write Consistency mapping</i></b>
       </td>
  <td align="center" valign="center">
         <a href="./images/20.jpg"><img src="./thumbnails/20.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(20) <i>Mongo DB vs Azure Cosmos DB Mongo API Majority Write Consistency mapping </i></b>
+        <b>(20) <i>Mongo DB vs Azure Cosmos DB Mongo API Minority Write Consistency mapping </i></b>
   <td align="center" valign="center">
         <a href="./images/21.jpg"><img src="./thumbnails/21.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(21) <i>Mongo DB vs Azure Cosmos DB Mongo API Minority Write Consistency mapping</i></b>
+        <b>(21) <i>Cosmos DB Consistency Vs Latency Trade Offs</i></b>
       </td>
   </tr>
    <tr>
   <td align="center" valign="center">
         <a href="./images/22.jpg"><img src="./thumbnails/22.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(22) <i>Cosmos DB Consistency Vs Latency Trade Offs</i></b>
+        <b>(22) <i>Cosmos DB Consistency Vs Throughput tradeoffs</i></b>
       </td>
  <td align="center" valign="center">
         <a href="./images/23.jpg"><img src="./thumbnails/23.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(23) <i>Cosmos DB Consistency Vs Throughput tradeoffs </i></b>
+        <b>(23) <i>Cosmos DB Consistency Levels & Data Durability trade Offs </i></b>
   <td align="center" valign="center">
         <a href="./images/24.jpg"><img src="./thumbnails/24.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(24) <i>Cosmos DB Documentation : Consistency Levels & Data Durability trade Offs</i></b>
+        <b>(24) <i>Cosmos DB High Availability</i></b>
       </td>
   </tr>
      <tr>
   <td align="center" valign="center">
         <a href="./images/25.jpg"><img src="./thumbnails/25.jpg" width="300" alt="Zone Availability Supported" /></a>
         <br/>
-        <b>(25) <i> : Zone Availability Supported </i></b>
+        <b>(25) <i> Cosmos DB SLA for High Availability </i></b>
       </td>
  <td align="center" valign="center">
         <a href="./images/26.jpg"><img src="./thumbnails/26.jpg" width="300" alt="Tips for High Availability" /></a>
         <br/>
-        <b>(26) <i>Tips for High Availability </i></b>
-   
+        <b>(26) <i>Cosmos Db Zone Availability Supported </i></b>
+  <td align="center" valign="center">
+        <a href="./images/28.jpg"><img src="./thumbnails/28.jpg" width="300" alt="Tips for High Availability" /></a>
+        <br/>
+        <b>(26) <i>Cosmos DB Tips for High Availability </i></b> 
+      </td>
   </tr>
  </table>

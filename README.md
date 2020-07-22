@@ -150,14 +150,14 @@
   <td align="center" valign="center">
         <a href="./images/27.jpg"><img src="./thumbnails/27.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(28) <i>Cosmos DB Pricing of Zone Availability </i></b> 
+        <b>(27) <i>Cosmos DB Pricing of Zone Availability </i></b> 
       </td>
   </tr>
   <tr>
   <td align="center" valign="center">
         <a href="./images/28.jpg"><img src="./thumbnails/28.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(25) <i> Cosmos DB Tips for High Availability </i></b>
+        <b>(28) <i> Cosmos DB Tips for High Availability </i></b>
       </td>
  
   </tr>

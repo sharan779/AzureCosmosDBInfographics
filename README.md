@@ -137,20 +137,28 @@
         <b>(24) <i>Cosmos DB High Availability</i></b>
       </td>
   </tr>
-     <tr>
+  <tr>
   <td align="center" valign="center">
-        <a href="./images/25.jpg"><img src="./thumbnails/25.jpg" width="300" alt="Zone Availability Supported" /></a>
+        <a href="./images/25.jpg"><img src="./thumbnails/25.jpg" width="300" alt="description here" /></a>
         <br/>
         <b>(25) <i> Cosmos DB SLA for High Availability </i></b>
       </td>
  <td align="center" valign="center">
-        <a href="./images/26.jpg"><img src="./thumbnails/26.jpg" width="300" alt="Tips for High Availability" /></a>
+        <a href="./images/26.jpg"><img src="./thumbnails/26.jpg" width="300" alt="description here" /></a>
         <br/>
         <b>(26) <i>Cosmos Db Zone Availability Supported </i></b>
   <td align="center" valign="center">
-        <a href="./images/28.jpg"><img src="./thumbnails/28.jpg" width="300" alt="Tips for High Availability" /></a>
+        <a href="./images/27.jpg"><img src="./thumbnails/27.jpg" width="300" alt="description here" /></a>
         <br/>
-        <b>(28) <i>Cosmos DB Tips for High Availability </i></b> 
+        <b>(28) <i>Cosmos DB Pricing of Zone Availability </i></b> 
       </td>
+  </tr>
+  <tr>
+  <td align="center" valign="center">
+        <a href="./images/28.jpg"><img src="./thumbnails/28.jpg" width="300" alt="description here" /></a>
+        <br/>
+        <b>(25) <i> Cosmos DB Tips for High Availability </i></b>
+      </td>
+ 
   </tr>
  </table>

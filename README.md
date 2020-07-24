@@ -159,6 +159,21 @@
         <br/>
         <b>(28) <i> Cosmos DB Tips for High Availability </i></b>
       </td>
- 
+      <td align="center" valign="center">
+        <a href="./images/29.jpg"><img src="./thumbnails/29.jpg" width="300" alt="description here" /></a>
+        <br/>
+        <b>(26) <i>Cosmos Db Monitor Control plane Operations - 1st Step </i></b>
+     <td align="center" valign="center">
+        <a href="./images/30.jpg"><img src="./thumbnails/30.jpg" width="300" alt="description here" /></a>
+        <br/>
+        <b>(27) <i>Cosmos Db Monitor Control plane Operations - 2nd Step  </i></b> 
+      </td>
+  </tr>
+   <td align="center" valign="center">
+        <a href="./images/31.jpg"><img src="./thumbnails/31.jpg" width="300" alt="description here" /></a>
+        <br/>
+        <b>(28) <i> Cosmos Db Monitor Control plane Operations - 3rd Step </i></b>
+      </td>
+     
   </tr>
  </table>
